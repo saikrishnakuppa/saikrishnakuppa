@@ -1,6 +1,6 @@
-hi, I'm Sai Kuppa, a passionate self-taught full stack developer. my passion for software lies with dreaming up ideas and making them come true with elegant scalable solutions. i take great care in the experience, architecture, and code quality of the things I build.
+Hi, I'm Sai Kuppa, 
 
-i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i appreciate how collaboration and knowledge sharing happen through open-source.
+Welcome to my repository!
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)
